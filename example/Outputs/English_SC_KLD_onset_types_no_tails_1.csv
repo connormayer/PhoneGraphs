@@ -1,0 +1,2 @@
+model_name,overall_t,overall_r,attested_t,attested_r,marginal_t,marginal_r,unattested_t,unattested_r
+English_SC_KLD_onset_types_no_tails_1,0.6160716741357609,0.7695959942692661,0.24666666666666665,0.16716497457161184,0.0,0.20987706470120854,0.6094674556213018,0.7376336776935319
